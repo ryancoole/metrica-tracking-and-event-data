@@ -42,7 +42,7 @@ For the next example, we have gone through all the home team passes and calculat
 # What I Learnt
 
 - Using tracking data to add context to shot and pass maps
-- Calculating player velocties
+- Calculating player velocities
 - Creating bespoke physical summary reports
 - Implementing a pitch control model
 - Evaluating pass options
